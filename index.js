@@ -7,6 +7,7 @@ function theBeatlesPlay(music, instr){
 }
 function johnLennonFacts(array){
   let empty = [];
+  let x = 0;
   while(x < array.length){
     empty.push(`${array[x]} !!!`);
     x+=1;
